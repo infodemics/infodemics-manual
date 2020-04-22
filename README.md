@@ -4,6 +4,20 @@
 
 This is a brief manual to using the [Infodemics Risk Communication Platform](https://infodemics.com).
 
+## Index
+[Introduction](#introduction)
+
+[Feed](#feed)
+
+[Profile](#profile)
+
+[Circles](#circles)
+
+[FAQ](#faq)
+
+[To Do](#to-do)
+
+[Drafts](#drafts)
 
 ## Introduction
 Infodemics (infodemics.com) is a risk communication platform which works on the premise that the use of social circles in the dissemination of information makes for the most efficient and effective communication.
@@ -18,7 +32,7 @@ At Infodemics, we believe that the management of epidemics first of all begins w
 	* with the location based government
 	* non-government parties and others which go into a successful risk communication plan
 
-We then organise the risk communication effort into what we term *circles*. A circle is a group of people, sharing a common characteristic, skill or function which coordinate the risk communication effort.
+We then organise the risk communication effort into what we term **circles**. A circle is a group of people, sharing a common characteristic, skill or function which coordinate the risk communication effort.
 
 Finally, we then communicate risk using our inbuilt media channels which include SMS, email, Interactive Voice Response (IVR) among others.
 
@@ -32,13 +46,17 @@ This manual will help users get acquainted with the application and help navigat
 
 ## Feed
 
-### Search
+### Menu
 
-### Index
+### Content
 
 ## Profile
 
 ## Circles
+
+### Index
+
+### Search
 
 ### Topics
 
@@ -54,15 +72,15 @@ This manual will help users get acquainted with the application and help navigat
 
 ### Email
 
-### Disbursement
-
-## To Do
+### Disbursements
 
 ## FAQ
 
 ### Pricing
 
 ### Ownership
+
+## To Do
 
 
 
