@@ -31,7 +31,11 @@ This is a brief manual to using the [Infodemics Risk Communication Platform](htt
 
 4. [Circles](#circles)
 
+4. [Apps](#apps)
+
 5. [FAQ](#faq)
+	* [Pricing](#pricing)
+	* [Ownership](#ownership)
 
 6. [To Do](#to-do)
 
@@ -194,21 +198,55 @@ The activity feed content is self descriptive. It is a reverse chronological fee
 
 ### Join requirements
 
-### Call
-
 ### SMS
 
 ### Email
 
+### Public Calls*
+
+This feature is under construction.
+
 ### Disbursements*
+
+This feature is under construction.
+
+## Apps
+
+Infodemics is so easy to use that one can easily forget it is a one stop risk communication platform.
+
+Our app gallery which is currently in beta showcases the many features that can be built on Infodemics.
+
+These include:
+
+* The Infodemics Blog, an example of a way to show the entries of a circle to an audience not signed in to Infodemics.
+* Check In
+* Public Calls
+
 
 ## FAQ
 
+We have tried to answer our frequently asked questions (FAQ) below.
+
 ### Pricing
+
+*How much do you I for Infodemics?*
+
+Infodemics is currently free for all non-commercial uses. Yes, currently, all SMS and emails are sent free of charge when you use the Infodemics platform non-commercially.
 
 ### Ownership
 
+*Circles, members and their audience belong to who?*
+
+Infodemics owns its created circles and audiences. Circles and audiences you create on Infodemics are also currently owned by you. We also advice that you use the circle availability (public or private) to enforce access.
+
 ## To Do
+
+There are several features being worked on by the Infodemics team. These, besides regular user interface and user experience updates, include:
+
+* expanding on our channel offerings: IVR, USSD and similar
+* expanding on campaigns and collaborative tools
+* more robust circle and role management
+* providing more robust analytics
 
 ## Use Cases
 The Infodemics use cases will look at various contexts of the use of the application such as:
