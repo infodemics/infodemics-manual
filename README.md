@@ -24,6 +24,10 @@ This is a brief manual to using the [Infodemics Risk Communication Platform](htt
 	* [Create a Circle](#create-a-circle)
 
 3. [Feed](#feed)
+	* [Search](#search)
+	* [Index](#index)
+	* [Menu](#menu)
+	* [Content](#content)
 
 4. [Circles](#circles)
 
@@ -150,15 +154,35 @@ Creating a circle is explained in more detail [here](#creating-a-circle).
 
 ## Feed
 
-### Menu
+The Infodemics activity feed brings together all of a profile's activity into one view. This is usually where one begins their day from.
 
-### Content
+![Infodemics logo](./assets/img/feed.png)
 
-## Circles
+### Search
+
+One important function when someone is viewing the activity feed is search. At the navbar (top left hand side), there is a search box which will query every public circle and show the results.
+
+Note that you can always search partial words or expressions.
+
+![Infodemics logo](./assets/img/search.png)
 
 ### Index
 
-### Search
+On the side menu, one can go to the list or index of all public circles. This is the Infodemics Circle Index. Clicking on any circle will take you directly to that selected circle.
+
+![Infodemics logo](./assets/img/index.png)
+
+### Menu
+
+The side menu of the feed view shows some key shortcuts to the use profile, check-ins, the app gallery and besides the public and recommended circles, all circles that have been created, administered or joined by the user.
+
+### Content
+
+The activity feed content is self descriptive. It is a reverse chronological feed (most recent to older). Images, if they exist in the post, will also be shown with other links to jump directly to the circle or topic the post was made in.
+
+![Infodemics logo](./assets/img/content.png)
+
+## Circles
 
 ### Creating a circle
 
@@ -176,7 +200,7 @@ Creating a circle is explained in more detail [here](#creating-a-circle).
 
 ### Email
 
-### Disbursements
+### Disbursements*
 
 ## FAQ
 
