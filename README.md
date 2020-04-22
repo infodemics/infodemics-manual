@@ -7,9 +7,13 @@ This is a brief manual to using the [Infodemics Risk Communication Platform](htt
 ## Index
 [Introduction](#introduction)
 
-[Feed](#feed)
+* [Signup](#signup)
+* [Log in](#login)
+* [Setup](#setup)
 
 [Profile](#profile)
+
+[Feed](#feed)
 
 [Circles](#circles)
 
@@ -40,17 +44,36 @@ This manual will help users get acquainted with the application and help navigat
 
 ### Signup
 
+![Infodemics logo](/assets/img/signup.png)
+
+The **Log In**  button at the top right hand corner will let you log in or sign up to Infodemics. There are two ways you can sign up to use Infodemics:
+
+* provide a valid phone number and email
+* signup using Google, Twitter or Facebook accounts
+
+Please note that when providing phone numbers, you would have to select your country and then your phone number with out the leading "0". For instance, a Nigerian with a typical *080x* number would choose Nigeria (+234) and then enter their number as *80x*.
+
 ### Login
 
+Log in is either using your registered phone number of the use of your Google, Twitter or Facebook accounts.
+
+### Forgot Password?
+
+By selecting the *Forgot Password?* link while trying to log in, you will be presented with the password recovery window.
+
+![Infodemics logo](/assets/img/recovery.png)
+
+We have password recovery options available for accounts which have registered with a valid phone number. A code will be sent to you to use in the recovery process.
+
 ### Setup
+
+## Profile
 
 ## Feed
 
 ### Menu
 
 ### Content
-
-## Profile
 
 ## Circles
 
@@ -82,24 +105,14 @@ This manual will help users get acquainted with the application and help navigat
 
 ## To Do
 
+## Use Cases
+The Infodemics use cases will look at various contexts of the use of the application such as:
 
+* location and geo-targeted activities
 
-## Drafts
--location
--media channels
--collaboration
--use cases
+* use of media channels
 
-Introduction
- 
-Due to the different categories of individuals and organizations that may use this application, the manual will be divided into sections with details per category.
-The categories are as follows;
-Circle Member
-Circle head
-Health Organization
-Administrator
-
-Circle Member
+* collaboration
 
 
 
