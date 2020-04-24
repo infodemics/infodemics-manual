@@ -30,6 +30,20 @@ This is a brief manual to using the [Infodemics Risk Communication Platform](htt
 	* [Content](#content)
 
 4. [Circles](#circles)
+	* [Creating a circle](#creating-a-circle)
+	* [Joining a circle](#joining-a-circle)
+		* Added by administrator
+		* Filling join requirements
+	* [Circle audiences](#circle-audiences)
+	* [Circle settings](#circle-settings)
+	* [Creating a topic](#creating-a-topic)
+	* [Making a post](#making-a-post)
+	* [Sending SMS](#sending-sms)
+	* [Sending Email](#sending-email)
+	* [Maps and locations](#maps-and-locations)
+	* [Public Calls*](#public-calls)
+	* [Disbursements*](#disbursements)
+
 
 4. [Apps](#apps)
 
@@ -188,25 +202,136 @@ The activity feed content is self descriptive. It is a reverse chronological fee
 
 ## Circles
 
+As previously defined, collaboration on the Infodemics platform are done in circle contexts. Think of circles as containing members which create topics and posts while communicating with an audience.
+
 ### Creating a circle
+
+Creating a circle is done easily from the profile page. Click the *New Circle* link on the side menu to get started.
+
+![Infodemics logo](./assets/img/circle-create.png)
+
+A circle is described with a title, its type: either public or private and its join requirements.
+
+A public circle will be listed on the Infodemics index, visible when users search for it and be open to any user to join. A private circle is only accessible to the invited. We shall discuss that shortly.
+
+A circle at least a single join requirement (though you can have as many as you desire). A join requirement is information that must be provided by users before they become members of a circle. Think of it as showing identification to enter a room.
+
+Note that you can create a sub circle. This is only possible in a single level. It means that, for now, you cannot create a circle under a circle which is also under a circle.
+
+### Joining a circle
+
+One can join a circle by being added by the administrator or by filling the join requirements.
+
+#### Added by administrator
+
+As an administrator, you can navigate to the circle members and add a new member. You would need to know the phone number of the profile to be added. The new member can be added as an administrator or a regular member.
+
+![Infodemics logo](./assets/img/circle-add.png)
+
+#### Filling join requirements
+
+The more common way to invite an Infodemics user to a circle is to share with them the URL of the circle. Once you give them a link to the circle, they can just fill in the already set requirements and be admitted into the circle as a regular member. You can assign administrator or other roles under the circle settings.
+
+Note that leaving the circle is as easy as clicking the *Leave Circle* button.
+![Infodemics logo](./assets/img/circle-leave.png)
+
+### Circle audiences
+
+As you may have surmised, members of a circle are inidividuals who have an Infodemics profile. There are instances where there is a need to communicate with individuals who are not signed up on Infodemics. We use a circle's audience for this purpose.
+
+![Infodemics logo](./assets/img/circle-audience.png)
+
+It is as easy as navigating to the circle *Audience* link. Here we can see existing audiences or create new ones. Currently, audiences are of two types: SMS and email. 
+
+Createing a new audience is as easy as specifying its type: phone or email, a description and then the actual list of phone numbers or email (never the two at the same time).
+
+Phone numbers must be entered in the full manner, separated by commas and no space in between e.g
+
+```
++2348021234567,+2348034567890
+```
+
+Emails follow the same format:
+
+```
+user@provider.com,profile@website.com
+```
+
+### Circle settings
+
+You may want to define a circle join requirements in more details: providing options for users to choose from. This can be done easily as shown.
+
+![Infodemics logo](./assets/img/circle-reqs.png)
+
+The same circle settings allows you to change a circle's name, the associated image, its type: public or private among other things. Here also, you can remove administrators or similar.
+
+You many note that the ability to remove circle member is under construction.
 
 ### Creating a topic
 
-### Posts
+Creating a topic under a circle is as easy as clicking the *Topics* link and then the *New Topic* button.
 
-### Locations
+![Infodemics logo](./assets/img/circle-new-topic.png)
 
-### Join requirements
+The topic is entered with the accompanying new post. This is actually made as the first post under the newly created topic. Also, pictures can be added below.
 
-### SMS
+![Infodemics logo](./assets/img/circle-topic.png)
 
-### Email
+One can even choose to pin this particular topic to the circle's map. Move the red location pin to your desired location while using the zoom icons (+ and -) for accuracy.
 
-### Public Calls*
+![Infodemics logo](./assets/img/circle-pin-map.png)
+
+### Making a post
+
+Making a new post is also easy. First of all, use the *Posts* link on the side menu of the circle to see the recent posts. They will all be shown with their associated topics (see the highlighted area).
+
+![Infodemics logo](./assets/img/circle-posts.png)
+
+Clicking the topic will bring up a window to enter a new post. Note that a post can not be more than 235 characters though one can also add pictures.
+
+![Infodemics logo](./assets/img/circle-new-post.png)
+
+### Sending SMS
+
+As you may have noticed, as an administrator of a circle, you can send any posts of length less than 235 characters as SMS.
+
+![Infodemics logo](./assets/img/send-sms.png)
+
+The SMS can be sent to selected members of a circle or any of its audiences and any other numbers you wish (properly formatted).
+
+![Infodemics logo](./assets/img/send-sms-recipients.png)
+
+You will notice that if you decide to add any other numbers just before messages are sent, you can also save those as a new audience for the next time.
+
+![Infodemics logo](./assets/img/send-sms-save-audience.png)
+
+Details on pricing can be found [here](#pricing).
+
+### Sending Email
+
+Sending emails are just like the case of SMS. Here, there are no length restrictions as any post can be sent as an email to members of a circle with valid emails, email audiences or any such email you choose to enter.
+
+The major difference between sending SMS and emails is that the emails sent will have the topic as the subject line One should therefore make certain that this is descriptive enough.
+
+Details on pricing can be found [here](#pricing).
+
+### Maps and locations
+
+You may have noticed the map associated with a circle and the locations pinned on it. These are usually associated with certain topics or posts (clicking the balloon on the map will take you directly).
+
+![Infodemics logo](./assets/img/circle-location.png)
+
+You can modify these locations from the associated posts (notice the *Change Pin Location* button).
+
+![Infodemics logo](./assets/img/circle-location-edit.png)
+
+You can also see all locations and modify them (even removing them totally) from the circle settings. 
+
+### Public Calls
 
 This feature is under construction.
 
-### Disbursements*
+### Disbursements
 
 This feature is under construction.
 
@@ -214,7 +339,7 @@ This feature is under construction.
 
 Infodemics is so easy to use that one can easily forget it is a one stop risk communication platform.
 
-Our app gallery which is currently in beta showcases the many features that can be built on Infodemics.
+Our app gallery, which is currently in beta, showcases the many features that can be built on Infodemics.
 
 These include:
 
