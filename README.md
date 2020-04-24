@@ -41,11 +41,10 @@ This is a brief manual to using the [Infodemics Risk Communication Platform](htt
 	* [Sending SMS](#sending-sms)
 	* [Sending Email](#sending-email)
 	* [Maps and locations](#maps-and-locations)
-	* [Public Calls*](#public-calls)
-	* [Disbursements*](#disbursements)
-
 
 4. [Apps](#apps)
+	* [Public Calls*](#public-calls)
+	* [Disbursements*](#disbursements)
 
 5. [FAQ](#faq)
 	* [Pricing](#pricing)
@@ -327,14 +326,6 @@ You can modify these locations from the associated posts (notice the *Change Pin
 
 You can also see all locations and modify them (even removing them totally) from the circle settings. 
 
-### Public Calls
-
-This feature is under construction.
-
-### Disbursements
-
-This feature is under construction.
-
 ## Apps
 
 Infodemics is so easy to use that one can easily forget it is a one stop risk communication platform.
@@ -347,6 +338,14 @@ These include:
 * Check In
 * Public Calls
 
+### Public Calls
+
+This feature is under construction.
+
+### Disbursements
+
+This feature is under construction.
+
 
 ## FAQ
 
@@ -354,13 +353,13 @@ We have tried to answer our frequently asked questions (FAQ) below.
 
 ### Pricing
 
-*How much do you I for Infodemics?*
+*How much do you charge for Infodemics?*
 
-Infodemics is currently free for all non-commercial uses. Yes, currently, all SMS and emails are sent free of charge when you use the Infodemics platform non-commercially.
+Infodemics is currently free for all non-commercial uses. All SMS and emails are sent free of charge when you use the Infodemics platform non-commercially at the moment.
 
 ### Ownership
 
-*Circles, members and their audience belong to who?*
+*Circles, members and their audiences belong to who?*
 
 Infodemics owns its created circles and audiences. Circles and audiences you create on Infodemics are also currently owned by you. We also advice that you use the circle availability (public or private) to enforce access.
 
