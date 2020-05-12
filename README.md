@@ -42,8 +42,11 @@ This is a brief manual to using the [Infodemics Risk Communication Platform](htt
 	* [Sending Email](#sending-email)
 	* [Maps and locations](#maps-and-locations)
 
-4. [Apps](#apps)
-	* [Public Calls*](#public-calls)
+4. [Applications](#applications)
+	* [Publishing Circles](#publishing-circles)
+	* [Building Forms](#building-forms)
+		* Filling forms on Infodemics
+		* Filling forms via Typeform
 	* [Disbursements*](#disbursements)
 
 5. [FAQ](#faq)
@@ -326,21 +329,35 @@ You can modify these locations from the associated posts (notice the *Change Pin
 
 You can also see all locations and modify them (even removing them totally) from the circle settings. 
 
-## Apps
+## Applications
 
 Infodemics is so easy to use that one can easily forget it is a one stop risk communication platform.
 
-Our app gallery, which is currently in beta, showcases the many features that can be built on Infodemics.
+There are also many features which enable you to extend Infodemics. These include publishing your circles so that they are available to the public as a form of blog (The Infodemics Blog is a prime example!), collecting input from the public through forms, questionnaires and (in the future) polls.
 
-These include:
+### Publishing Circles
+A circle can be published by its owner or any of its administrators. The purpose of publishing a circle is to make its topics available to be read by the public as they would a blog post.
 
-* The Infodemics Blog, an example of a way to show the entries of a circle to an audience not signed in to Infodemics.
-* Check In
-* Public Calls
+![Infodemics logo](./assets/img/circle-publish-public.png)
 
-### Public Calls
+To do so, navigate to the circle settings and enter a vanity URL and then publish "Publicly". After doing so, topics made in your circle will then be visible to whoever goes to the URL you just published. An example of this is the Infodemics blog which is at [https://infodemics.com/v/blog](https://infodemics.com/v/blog). You can then broadcast your the generated link on your social media accounts, banners and so forth.
 
-This feature is under construction.
+### Building Forms
+As you will soon find out, there are several scenarios where members of the public need to fill a form, providing data or some other information for use within an Infodemics circle. Infodemics currently has two ways to do this: either on the Infodemics platform or via a third party service: [Typeform](https://typeform.com).
+
+#### Building forms on Infodemics
+An Infodemics circle already has the form ability built in to its join requirements (see [*Creating a Circle*](#creating-a-circle)). Once the appropriate fields to be filled in are set up, one needs to then publish the parent circle "for Input" and all its public child circles will be available to be filled by members of the public.
+
+![Infodemics logo](./assets/img/circle-publish-input.png)
+
+Note that you can always share the vanity URL (link) of the parent circle so that people can click on it to fill your form and automatically join the circle!
+
+#### Building forms via Typeform
+There are instances where a more finer approach to forms is needed: optional fields, image or video uploads or other custom offerings like receiving payments and the like. For this cases, we have setup an Infodemics - Typeform integration.
+
+You only need contact us at [support@infodemics.com](mailto:support@infodemics.com) so we can build the form together to fit your requirements and then we can publish it "via Typeform" on Infodemics, providing the unique url for the form so people can fill it from Infodemics.
+
+The responses to the form can then be provided to you in a manner you desire: on demand, daily schedule or automatically as they are submitted.
 
 ### Disbursements
 
